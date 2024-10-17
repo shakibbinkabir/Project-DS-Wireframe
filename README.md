@@ -72,9 +72,15 @@ We welcome contributions from developers and designers. Feel free to fork this r
 
 ---
 
+Here’s the revised **License** section of your README file based on the custom license:
+
+---
+
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is open for contributions, but use and distribution are restricted. You may fork and contribute to this repository for personal or non-commercial purposes. However, the use, distribution, or modification of this software for commercial purposes is strictly prohibited without explicit permission from the copyright holders.
+
+For more details, please refer to the [LICENSE](LICENSE) file.
 
 ---
 
