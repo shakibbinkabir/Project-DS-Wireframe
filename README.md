@@ -52,7 +52,7 @@ Upcoming milestones include:
 
 ## 🌱 How to Contribute
 
-We welcome contributions from developers and designers to help improve **CoDesk**. You may fork this repository and submit contributions for non-commercial purposes, as outlined in our license. To contribute:
+We welcome contributions from developers and designers to help improve **Project DS**. You may fork this repository and submit contributions for non-commercial purposes, as outlined in our license. To contribute:
 
 1. Fork the repository.
 2. Create a new branch for your changes.
