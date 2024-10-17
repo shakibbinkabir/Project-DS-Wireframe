@@ -1,6 +1,6 @@
 # Project DS - Wireframing
 
-Welcome to **Project DS**, a comprehensive wireframing solution for CoWorking Space company. This repository contains the wireframe designs developed using **draw.io**. The wireframes aim to outline the structure and flow of the project, including both the frontend and backend aspects, as well as data linking, API, and algorithms.
+Welcome to wireframing of **Project DS**, a comprehensive solution for CoWorking Space company. This repository contains the wireframe designs developed using **draw.io**. The wireframes aim to outline the structure and flow of the project, including both the frontend and backend aspects, as well as data linking, API, and algorithms.
 
 ---
 
