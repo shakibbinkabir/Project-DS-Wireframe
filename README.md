@@ -38,9 +38,9 @@ Upcoming milestones include:
 
 ---
 
-## 💼 About CoDesk
+## 💼 About Project DS
 
-**CoDesk** is a coworking space management platform designed to provide an efficient and streamlined experience for businesses, freelancers, and startups to manage workspace reservations, memberships, and community interactions.
+**Project DS** is a coworking space management platform designed to provide an efficient and streamlined experience for businesses, freelancers, and startups to manage workspace reservations, memberships, and community interactions.
 
 ---
 
