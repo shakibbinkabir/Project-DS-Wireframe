@@ -50,29 +50,16 @@ Upcoming milestones include:
 
 ---
 
-## 📊 Project Structure
-
-This repository contains the following main sections:
-- **Frontend**: UI wireframes and interaction flow (currently in progress).
-- **Backend**: Database and server design structure (upcoming).
-- **Data Linking**: Logical flow of data between frontend and backend (upcoming).
-- **API**: Specifications and wireframes for server-side interactions (upcoming).
-- **Algorithms**: Initial drafts of algorithms planned for implementation (upcoming).
-
----
-
 ## 🌱 How to Contribute
 
-We welcome contributions from developers and designers. Feel free to fork this repository, make changes, and submit a pull request. Let's build **Project DS** together!
+We welcome contributions from developers and designers to help improve **CoDesk**. You may fork this repository and submit contributions for non-commercial purposes, as outlined in our license. To contribute:
 
 1. Fork the repository.
 2. Create a new branch for your changes.
-3. Commit your changes and push them.
-4. Create a pull request with a detailed description of your updates.
+3. Commit your changes and push them to your branch.
+4. Submit a pull request with a detailed description of your updates.
 
----
-
-Here’s the revised **License** section of your README file based on the custom license:
+Please ensure that all contributions comply with the [LICENSE](LICENSE) terms, as the software cannot be used or distributed for commercial purposes without permission.
 
 ---
 
