@@ -6,7 +6,7 @@ Welcome to wireframing of **Project DS**, a comprehensive solution for CoWorking
 
 ## 📂 Overview
 
-**Project DS** is in its early stages, with the wireframing progress currently at **10%**. We are currently focused on designing the **frontend structure** of **CoDesk**, laying out the user interface and interaction flow for the platform. The wireframe will serve as a blueprint for the final implementation, ensuring a smooth transition between design and development.
+**Project DS** is in its early stages, with the wireframing progress currently at **10%**. We are currently focused on designing the **frontend structure** of **Project DS**, laying out the user interface and interaction flow for the platform. The wireframe will serve as a blueprint for the final implementation, ensuring a smooth transition between design and development.
 
 ### 🏗️ Wireframe Contents
 
@@ -29,7 +29,7 @@ Welcome to wireframing of **Project DS**, a comprehensive solution for CoWorking
 
 The wireframing is **10% complete**, and we are currently focusing on:
 
-- **Frontend Structure**: Laying the foundation for UI/UX, page layouts, and interaction flows. This will help ensure that **CoDesk** provides a seamless user experience.
+- **Frontend Structure**: Laying the foundation for UI/UX, page layouts, and interaction flows. This will help ensure that **Project DS** provides a seamless user experience.
 
 Upcoming milestones include:
 - Designing the **backend structure**.
